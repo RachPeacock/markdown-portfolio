@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+Clicking on my name should be a link to my GitHub profile....
+[RachPeacock](https://github.com/RachPeacock)
